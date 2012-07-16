@@ -24,4 +24,6 @@ package com.github.coderplay.util.concurrent.queue;
 public interface Constants {
   /** Set to -1 as sequence starting point */
   public static final long INITIAL_CURSOR_VALUE = -1L;
+  
+  public static final long INITIAL_CURSOR_VALUE_2 = -2L;
 }
