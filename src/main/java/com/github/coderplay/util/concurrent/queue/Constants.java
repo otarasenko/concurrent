@@ -28,4 +28,6 @@ public interface Constants {
   public static final long INITIAL_CURSOR_VALUE_2 = -2L;
   
   public static final long INITIAL_CURSOR_VALUE_3 = -3L;
+  
+  public static final long INITIAL_CURSOR_VALUE_4 = -4L;
 }
