@@ -9,7 +9,7 @@ public class SingleThreadedClaimStrategyTest {
 	@Test
 	public void getBufferSize() {
 		SingleThreadedClaimStrategy stcs = new SingleThreadedClaimStrategy(5);
-		assertEquals(5, stcs.getBufferSize()); 
+		assertEquals(4, stcs.getBufferSize()); 
 	}
 
 }
