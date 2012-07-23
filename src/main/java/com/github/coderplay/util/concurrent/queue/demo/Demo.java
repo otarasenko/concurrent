@@ -5,7 +5,7 @@ import com.github.coderplay.util.concurrent.queue.Util;
 public class Demo {
 	
 	public static void main(String [] arg){
-		System.out.println("Here will be Demo: " + Util.ceilingNextPowerOfTwo(2));
+		Syste_m.out.println("Here will be Demo: " + Util.ceilingNextPowerOfTwo(2));
 		
 	} 
 
